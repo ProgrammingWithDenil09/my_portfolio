@@ -1,1 +1,1 @@
-# my_portfolio
+this directory has all the images used in the portfolio project.
